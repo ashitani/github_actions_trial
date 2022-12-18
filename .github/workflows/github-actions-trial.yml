@@ -9,4 +9,4 @@ jobs:
         with:
           python-version: '3.10'
       - run: make test
-      - run: make purge
+#      - run: make purge
