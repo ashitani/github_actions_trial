@@ -1,6 +1,6 @@
 # github_actions_trial
 
-![test](https://github.com/github/docs/actions/workflows/github-actions-trial.yml/badge.svg)
+[![learn-github-actions](https://github.com/ashitani/github_actions_trial/actions/workflows/github-actions-trial.yml/badge.svg)](https://github.com/ashitani/github_actions_trial/actions/workflows/github-actions-trial.yml)
 
 # これはなにか
 
